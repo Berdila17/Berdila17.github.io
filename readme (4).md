@@ -4,20 +4,20 @@
 
 ## Grob-Planung
 
-> Fügen Sie hier ein Foto Ihres handgezeichnete Entwurfes ein, wie Ihre Start-Seite aussehen könnte.
+> Fügen Sie hier ein Foto Ihres handgezeichnete Entwurfes ein, wie Ihre Start-Seite aussehen könnte. (kommt noch)
 
 ## 6.6
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich msl den Grund Inhalt und andere grafische Sachen wie den Layout geplant danach habe ich den Html Code geschrieben da es eine neue Sprache ist mit der ich halt nicht so gewohnt bin habe ich bei ein paar Sachen in Internet nachgeschaut wie z.B wie ist der Befehl nochmal für eine nicht nummerierte Liste etc.
 
 ☝️ Vergessen Sie nicht, Ihr angepasstes `index.html` und eine Datei mit Ihren Texten hochzuladen.
 
 ## 13.6
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Kontakt Bereich hinzufügen ( mit falschen Kontaktdaten aber)
+- [ ] Struktur verbessern also mit dem Header usw.
+- [ ] Mehr Inhalt weil es etwas wenig ist.
+- [ ] Layout besser machen was den Farbkombination etc. angeht
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
