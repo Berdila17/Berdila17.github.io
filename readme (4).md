@@ -14,12 +14,12 @@
 
 ## 13.6
 
-- [ ] Kontakt Bereich hinzufügen ( mit falschen Kontaktdaten aber)
-- [ ] Struktur verbessern also mit dem Header usw.
-- [ ] Mehr Inhalt weil es etwas wenig ist.
-- [ ] Layout besser machen was den Farbkombination etc. angeht
+- [x] Kontakt Bereich hinzufügen 
+- [x] Struktur verbessern also mit dem Header usw.
+- [x] Mehr Inhalt weil es etwas wenig ist.
+- [x] Layout besser machen was den Farbkombination etc. angeht
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich meine Website mit HTML und CSS weiterentwickelt. Ich habe die Struktur verbessert indem ich einen sauberen Aufbau mit header, main und footer verwendet habe. Dazu habe ich ein Kontaktformular eingefügt zusätzliche Inhalte wie „Meine Projekte“ ergänzt und ein modernes Farbschema eingebaut. Ich bin so vorgegangen das ich zuerst andere Websites angeschaut habe und wenn ich Features gesehen habe wie der Kontaktformular bei dem ich nicht genau wusste wie man das macht habe ich im Internet nachgeschaut. Ich fange langsam an mich an HTML und CSS zu gewöhnen.
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
