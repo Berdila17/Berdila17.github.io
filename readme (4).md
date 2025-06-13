@@ -25,10 +25,10 @@
 
 ## 20.7
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Navigation einabuen
+- [ ] Bilder hinzufügen die passdn
+- [ ] Eine Datei anfügen die man speichern kann
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
