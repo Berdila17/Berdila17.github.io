@@ -25,19 +25,19 @@
 
 ## 20.7
 
-- [ ] Navigation einabuen
-- [ ] Bilder hinzufügen die passdn
+- [x] Navigation einabuen
+- [x] Bilder hinzufügen die passdn
 - [ ] Eine Datei anfügen die man speichern kann
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich ein Bild hinzugefügt und mithilfe von Css es verschönert also halt den Radius etc bearbeiten und danach hab ich noch eine Navigation eingebaut nachdem wurden die Websites von Amar und Neo bewertet.
 
 ☝️ Vergessen Sie nicht, Ihre angepasste Website auf github hochzuladen
 
 ## 27.7 Abschluss
 
-- [ ] ...
-- [ ] ...
+- [ ] Design farbiger gestalten
+- [ ] Projekte verlinken
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
